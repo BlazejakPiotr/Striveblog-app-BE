@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "3aij18hoktwqqa62",
+    "_createdAt": "2021-09-23T09:36:23.545Z",
+    "name": "John",
+    "surname": "Doe",
+    "email": "john.doe@yahoo.com",
+    "date of birth": "08.08.1993",
+    "avatar": "https://ui-avatars.com/api/?name=John+Doe",
+    "_updatedAt": "2021-09-23T13:04:58.480Z"
+  },
+  {
+    "_id": "3aij1hisktwyprdr",
+    "_createdAt": "2021-09-23T13:19:56.126Z",
+    "name": "Piotr",
+    "surname": "Blazejak",
+    "email": "piotr.blazejak@yahoo.com",
+    "date of birth": "08.08.1991",
+    "avatar": "https://ui-avatars.com/api/?name=John+Doe",
+    "_updatedAt": "2021-09-23T13:20:26.046Z"
+  }
+]
